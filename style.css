@@ -1,0 +1,40 @@
+.article {
+background-color:#f2f2f2;
+text-align:left;
+}
+
+.main {
+text-align:left;
+font-size:100px;
+height:120px;
+}
+
+.picture {
+margin-left:auto;
+margin-right:auto;
+width:50%;
+display:block;
+}
+
+body {
+background-color:#f2f2f2;
+font-family:'Courier New', Courier, monospace;
+}
+
+h1,h2,h3,p,ul,ol {
+  color:#1f1e1e;
+}
+
+.footer {
+font-size:15px;
+text-align:center;
+}
+
+.map {
+  padding:15px;
+  margin:5px;
+}
+
+.intro {
+  padding:20px;
+}
